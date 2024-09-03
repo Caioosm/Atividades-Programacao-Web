@@ -1,0 +1,28 @@
+body{
+    background: bisque;
+    font: normal 20pt italic;
+}
+
+header{
+    color: brown;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px 10px brown;
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+footer{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}  
